@@ -1,1 +1,3 @@
-# Library-Management-System
+The Library Management System is a web-based application designed to automate and simplify the daily operations of a library. The system provides an efficient way to manage books, users, book issuance, and returns while reducing manual work and errors.
+
+This project includes separate panels for Admin and Students. The admin can manage book records, track issued and returned books, monitor overdue items, and generate reports. Students can search for available books, view their issued books, and check due dates. The system features a clean and user-friendly interface to ensure smooth usability for all users.
